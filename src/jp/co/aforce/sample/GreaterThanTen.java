@@ -9,7 +9,7 @@ public class GreaterThanTen {
 		if (isGreaterThanTen) {
 			System.out.println(num + "は10より大きいです。");
 		} else {
-			System.out.println(num + "は10より小さいです。");
+			System.out.println(num + "は10より小さいです。ss");
 		}
 		System.out.println("判定結果" + isGreaterThanTen);
 	}
